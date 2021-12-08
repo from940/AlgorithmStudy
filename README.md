@@ -1,2 +1,2 @@
-# ProgrammersAlgorithm
-프로그래머스 코딩테스트 풀이
+# AlgorithmStudy
+알고리즘 공부 기록용!
