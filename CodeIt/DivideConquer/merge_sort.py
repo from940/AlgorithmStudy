@@ -1,6 +1,5 @@
 
 def merge(list1, list2):
-    # 이전 과제에서 작성한 코드를 붙여 넣으세요!
     new_list = []
 
     i, j = 0, 0
