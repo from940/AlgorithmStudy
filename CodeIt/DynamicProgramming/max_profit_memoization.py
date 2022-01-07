@@ -4,9 +4,11 @@ memoization : 재귀 함수 이용하기
 
 def max_profit_memo(price_list, count, cache):
     # base case
+    if count <= 1 :
+        return price_list[count]
 
-    max_list =  
-    i <= count-i
+
+
     cache[n] = fib_memo(n - 1, cache) + fib_memo(n - 2, cache)
 
     # 계산한 값을 리턴한다
